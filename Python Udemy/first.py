@@ -5,3 +5,6 @@ print(a)
 print(b)
 print(c)
 print((4+5)*3)
+d=1.23+2.80
+print(d)
+print(round(d, 2))
